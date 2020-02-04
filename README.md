@@ -7,3 +7,5 @@
 3. place root folder in www directory
 
 4. access the app in the url 'localhost/ROOTFOLDERNAME'
+
+5. username: malek , password: 42069
