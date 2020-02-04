@@ -1,0 +1,10 @@
+how to redirect in php
+https://www.php.net/manual/en/function.header.php
+
+how to fetch using mysqli 
+https://www.youtube.com/watch?v=DYSu6FnE_VM
+
+using timestamps
+https://stackoverflow.com/questions/8652502/run-code-depending-on-the-time-of-day
+
+
