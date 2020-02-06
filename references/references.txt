@@ -7,4 +7,9 @@ https://www.youtube.com/watch?v=DYSu6FnE_VM
 using timestamps
 https://stackoverflow.com/questions/8652502/run-code-depending-on-the-time-of-day
 
+timezone config
+https://www.php.net/manual/en/function.date-default-timezone-set.php
+https://www.php.net/manual/en/timezones.america.php
 
+user friendly date/time
+https://stackoverflow.com/questions/5919387/create-user-friendly-date-in-php
